@@ -1,6 +1,6 @@
 # jwst0.9.6_miriteam_notebooks
 
-This repository contains Jupyter notebooks demonstrating the use of the MIRI Team pipelines for MIRI data within python.
+This repository contains Jupyter notebooks demonstrating the use of the MIRI Team pipelines for MIRI data within python. This are built on the JWST calibration pipeline.
 
 MIRICLE is required to run the MIRI Team notebooks and so the pipeline build in MIRICLE is used. For this set of noteoboks, this is jwst-0.9.6.
 
